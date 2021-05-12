@@ -1,6 +1,6 @@
 
 
-# Projet-site-web-JS-PHP-DOUABI-Zakaria-HADDOUCH-Mohammed-
+# Projet-site-web-JS-PHP-DOUABI-Zakaria
 Site web avec HTML, CSS, Javascript, Bootstrap et PHP
 
 <h2 color= "red">Notes:</h2>
